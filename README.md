@@ -1,4 +1,5 @@
-This elevator panel is well designed.
+This elevator panel is well designed and intitive.
+I found it in an elevator in the University Medical Center.
 The current floor and direction of travel are indicated using a grid of LEDs.
 A beep is played when the elevator goes up or down a floor.
 A floor that was selected and has not yet arrived to is indicated by the button for that floor being lit up.
@@ -10,3 +11,7 @@ There is an alert button, which is not on the same height as any other button.
 There is a HELP button below some kind of screen.
 
 It is possible that this elevator could be made more friendly to people who cannot see well by playing a recording saying something like "arrived at floor 3" instead of just the beeping sound, when the elevator arrives.
+
+
+GIF of operation
+![Behold](https://media.giphy.com/media/ZA0GQQ8kU9hw51qtSu/giphy.gif)
