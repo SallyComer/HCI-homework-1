@@ -13,5 +13,4 @@ There is a HELP button below some kind of screen.
 It is possible that this elevator could be made more friendly to people who cannot see well by playing a recording saying something like "arrived at floor 3" instead of just the beeping sound, when the elevator arrives.
 
 
-GIF of operation
-![Behold](https://media.giphy.com/media/ZA0GQQ8kU9hw51qtSu/giphy.gif)
+[GIF of operation](https://giphy.com/gifs/ZA0GQQ8kU9hw51qtSu/html5)
